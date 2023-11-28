@@ -51,3 +51,6 @@ This quote highlights the ongoing challenge for programmers to create user-frien
 
 Second, planning ahead is crucial for success. Before starting a new project or undertaking a large task, take the time to plan out your approach. Break the task down into smaller, manageable steps, so that it is easier to stay on track and avoid getting lost in the details. Create a roadmap for your project, with milestones and checkpoints along the way, to ensure you stay focused and make progress. 
  - 来自NLP
+
+# 2023-11-28
+- "Keep it simple, stupid!"
