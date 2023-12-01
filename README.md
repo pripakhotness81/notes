@@ -68,3 +68,10 @@ To be successful as a programmer, you must also develop excellent communication 
 
 First, prioritize your tasks. When you're working on a project, there will always be multiple things that need to get done. By determining which tasks are most important and which can wait, you can make sure that you focus on the right things at the Right time. Use a task management tool, such as Trello or Asana, to keep track of your to-dos and make adjustments as needed. 
  ..Next, learn how to plan and manage your Time. Set aside specific blocks of time to work on specific tasks or code challenges. Following a regular schedule can help to prevent procrastination and keep you focused. You can also use time tracking tools, like Toggl or RescueTime,to monitor how you spend your hours and identify areas for improvement. Finally, stay Organized. Keeping your code, project files,and notes in order can save you time and headaches down the road. Invest in a good version control system,like Git, use well-organized folders and file structures, write comments and documentation, And don't be afraid to ask for help or contribute to open source projects.
+
+# 2023-12-01
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your coding endeavors. First, identify the most important tasks and focus on them first. By prioritizing your tasks this way, you can ensure that you are making progress on the right things.
+
+Second, use time management techniques to your advantage. Break down your projects into smaller, manageable tasks. Then, allocate time for each task, allowing for some wiggle room in case things take longer than expected. Using a scheduling tool like Trello or Asana can help keep you organized and on track. 
+ --
+ Additionally, stay up-to-date with the latest programming trends and technologies. Not only will this help make you a more valuable asset to any team, but it will also keep your skills from becoming obsolete. Keep an eye on industry blogs, subscribe to newsletters, or attend conferences to stay informed.
