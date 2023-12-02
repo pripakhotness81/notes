@@ -75,3 +75,6 @@ First, prioritize your tasks. When you're working on a project, there will alway
 Second, use time management techniques to your advantage. Break down your projects into smaller, manageable tasks. Then, allocate time for each task, allowing for some wiggle room in case things take longer than expected. Using a scheduling tool like Trello or Asana can help keep you organized and on track. 
  --
  Additionally, stay up-to-date with the latest programming trends and technologies. Not only will this help make you a more valuable asset to any team, but it will also keep your skills from becoming obsolete. Keep an eye on industry blogs, subscribe to newsletters, or attend conferences to stay informed.
+
+# 2023-12-02
+- "Keep it simple, stupid!"
