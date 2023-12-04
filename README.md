@@ -86,3 +86,6 @@ Second, use time management techniques to your advantage. Break down your projec
  2. Plan ahead: Planning is crucial for any project. When starting a new project or undertaking a large task, take the time to plan out your approach and break it down into smaller, manageable steps. Creating a detailed plan will ensure you have a clear understanding of what needs to happen and when, allowing you and your team to stay on target.  
 3. Stay organized: As a programmer, maintaining a clean and organized codebase is vital for efficiency and ease of maintenance. Follow best practices, like using version control (such as Git), organizing your files and classes, commenting your code, following coding conventions, etc. These practices will not only make your life easier but also help in maintaining and contributing to open source projects.   
 4. Learn continuously: Technology is constantly evolving, so it' s essential for programmers to keep up with the latest developments and trends. Dedicate time each week to learn new skills, techniques, or tools that can help improve your workflow and productivity. Attend workshops, read blogs, watch tutorials, join online communities, attend conferences, network with other professionals, all of these can contribute to your growth as a developer.
+
+# 2023-12-04
+- "Keep it simple, stupid!"
