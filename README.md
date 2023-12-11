@@ -118,3 +118,6 @@ This quote reminds us that optimizing code too early in the development process 
 
 Second, always plan your day or week ahead of time. Write down your goals for the day and break them down into smaller tasks. Then, allocate time for each task during your working hours. Planning ahead will prevent you from getting overwhelmed by tasks and help ensure you have enough time to complete everything. 
  3. Stay organized by using tools and techniques that help keep your code, project,and work area clean and tidy.This includes using version control systems, like Git, to track changes to yourcode, using project management tools, such as Trello or Asana,to organize your to-do list, as well as keeping your workspace cleanand clutter-free.By staying organized,you can find and fix errors more quickly, collaborate more effectively with others,as wellas maintain a positive mental attitude in the face of challenges.
+
+# 2023-12-11
+- "Keep it simple, stupid!"
