@@ -140,3 +140,6 @@ This quote reminds us that optimizing code too early in the development process 
 
 # 2023-12-16
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, make a list of all the tasks you need to complete, then prioritize them based on their importance and deadline. Next, allocate time for each task, taking into account the complexity and your own availability. Finally, use tools and techniques such as version control, task management, continuous integration, testing, debugging, documentation, etc. to stay organised and make your code maintainable and reliable. Remember that continuous learning and improvement are essential for success in the world of programming.
+
+# 2023-12-17
+- Today's programming wisdom is: "Premature optimization is the root of all evil" - Donald Knuth. Focus on writing clear, readable, and maintainable code first, and only optimize when necessary, based on profiling and measurement.
