@@ -146,3 +146,6 @@ This quote reminds us that optimizing code too early in the development process 
 
 # 2023-12-18
 - Today's programming wisdom is to be a lifelong learner and adapt to the ever-changing world of technology. Embrace new programming languages, frameworks, and tools, but always keep in mind the fundamentals of computer science and software engineering. Practice good programming practices like modularity, reuse, simplicity, readability, security, performance, testing, documentation, collaboration, version control, continuous integration, deployment, monitoring, maintenance, etc. Always keep your code clean, organized, efficient, flexible, scalable, secure, reliable, maintainable, testable and extendable. Learn from your mistakes, share your knowledge, collaborate with others, listen to feedback, continuously improve your skills and your mindset. Be a responsible, humble, patient, open-minded, curious, critical thinking, creative, disciplined, passionate, dedicated, resilient, resourceful, effective, productive, trustworthy, communicative, team player, leader, visionary, entrepreneur, innovator, thinker, doer. Most importantly, always be humble and never stop learning.
+
+# 2023-12-19
+- "Keep it simple, stupid!"
