@@ -174,3 +174,10 @@ Second, planning ahead is crucial. Think about the bigger picture and what you n
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, identify the most important tasks and focus on them first. Then, break down larger tasks into smaller, manageable pieces, so you can easily track your progress.
 
 Use version control systems, such as Git, to keep track of your code and collaborate with others. Make sure to commit and push your changes regularly to avoid losing work in case of a computer crash or other issues. Use code editors and integrated development environments (IDEs) that are familiar to you and provide features that help with coding efficiency, like auto-completion and code formatting. These tools can save you time and reduce the risk of making mistakes.
+
+# 2023-12-26
+- Today's programming wisdom is to be a lifelong learner and to always stay up-to-date with the latest technologies and programming languages. This involves reading blogs, articles, and books, attending workshops and conferences, as well as participating in online forums and communities. By staying current, you can better understand the industry trends and develop the skills needed to succeed in your career.
+
+Another important aspect of programming wise is problem-solving skills. When faced with a challenging problem, take a step back, break it down into smaller components, use logical thinking, creativity, research, experimentation, collaboration, testing, debugging, refactoring, etc. to find a solution. Always keep in mind that there is no single correct answer, but there are multiple ways to achieve the same goal. Practice makes perfect, so keep solving problems and improving your problem solving skills day by day. 
+ 学习新技能，如Python、JavaScript、Java、C++等，并不断练习，以提高编程能力。了解不同的编程范式，例如面向对象编程、函数式编程等。学会使用版本控制系统，如同源代码管理（Git），以便更好地组织和管理代码。
+最后，保持耐心和毅力。编程是一个不断学习和成长的过程，需要时间和努力。不要害怕犯错误，因为错误是学习的一部分。从错误中吸取教训，不断改进，成为更好的程序员。
