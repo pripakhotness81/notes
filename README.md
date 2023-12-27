@@ -181,3 +181,6 @@ Use version control systems, such as Git, to keep track of your code and collabo
 Another important aspect of programming wise is problem-solving skills. When faced with a challenging problem, take a step back, break it down into smaller components, use logical thinking, creativity, research, experimentation, collaboration, testing, debugging, refactoring, etc. to find a solution. Always keep in mind that there is no single correct answer, but there are multiple ways to achieve the same goal. Practice makes perfect, so keep solving problems and improving your problem solving skills day by day. 
  学习新技能，如Python、JavaScript、Java、C++等，并不断练习，以提高编程能力。了解不同的编程范式，例如面向对象编程、函数式编程等。学会使用版本控制系统，如同源代码管理（Git），以便更好地组织和管理代码。
 最后，保持耐心和毅力。编程是一个不断学习和成长的过程，需要时间和努力。不要害怕犯错误，因为错误是学习的一部分。从错误中吸取教训，不断改进，成为更好的程序员。
+
+# 2023-12-27
+- "Keep it simple, stupid!"
