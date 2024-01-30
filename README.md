@@ -336,3 +336,10 @@ In essence, the wisdom lies in writing clean, maintainable code that solves the 
 5. Stay up-to-date with the latest programming technologies and tools. Learning new skills and adapting to new tools will make you a more valuable asset to your team or organization.    
 6. Don'ts: Procrastinate, avoid important tasks or decisions, be afraid to ask for help, work in isolation, neglect to document your code or processes, etc.     
 7. Lastly, remember to take breaks and give yourself time to recharge. Burnout is real, so make sure you're taking care of yourself physically and mentally.
+
+# 2024-01-30
+- Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented rate, it is essential to stay up-to-date with the latest developments and techniques. This involves constantly reading, researching, and practicing new skills.
+
+To be an effective programmer, you must also have a strong foundation in basic programming concepts, such as data structures, algorithms, software engineering, computer science theory, etc. These fundamentals will serve as a guide for solving complex problems and developing innovative solutions. 
+ - 学习编程语言和框架。了解不同的编程范式，如面向对象编程、函数式编程等。
+- Continuously practice your skills by solving problems, building projects, or contributing to open source initiatives.This will not only improve your programming abilities but also help you develop a deeper understanding of the field.- Stay up to date with industry trends and developments. Follow blogs, newsletters, podcasts, conferences,and other resources to keep informed about new technologies and best practices.
