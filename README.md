@@ -343,3 +343,8 @@ In essence, the wisdom lies in writing clean, maintainable code that solves the 
 To be an effective programmer, you must also have a strong foundation in basic programming concepts, such as data structures, algorithms, software engineering, computer science theory, etc. These fundamentals will serve as a guide for solving complex problems and developing innovative solutions. 
  - 学习编程语言和框架。了解不同的编程范式，如面向对象编程、函数式编程等。
 - Continuously practice your skills by solving problems, building projects, or contributing to open source initiatives.This will not only improve your programming abilities but also help you develop a deeper understanding of the field.- Stay up to date with industry trends and developments. Follow blogs, newsletters, podcasts, conferences,and other resources to keep informed about new technologies and best practices.
+
+# 2024-01-31
+- "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' — Leonardo da Vinci. In software development, strive to write clean, readable code that can be easily understood and maintained. This means using clear abstractions, minimizing complexity, and avoiding unnecessary features or premature optimizations. Always remember that you're not just writing code for machines to execute but also for humans to read, review, and evolve over time." 
+
+"Another pearl of wisdom: 'Programs must be written for people to read, and only incidentally for machines to execute.' — Harold Abelson and Gerald Jay Sussman. This highlights the importance of clarity and expressiveness in your code, which significantly impacts its longevity and maintainability."
