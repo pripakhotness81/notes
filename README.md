@@ -523,3 +523,10 @@ Second, always plan your day or week ahead of time. Write down your goals for th
 
 # 2024-03-08
 - "Keep it simple, stupid!"
+
+# 2024-03-09
+- Today's programming wisdom is to be a lifelong learner, constantly updating your skills and knowledge in the field. This means staying up-to-date with the latest technologies, tools, and best practices. It also means being open to new ideas and perspectives, as well as being willing to take calculated risks and try new things.
+
+To be successful in programming, it'ss important to understand the basics of computer science, including data structures, algorithms, programming languages, software engineering, etc. Additionally, being able to communicate effectively with others, both within your team and with clients, is crucial for problem-solving and project success. 
+ - 了解计算机科学的基本概念，如数据结构、算法、编程语言和软件工程。
+-保持对最新技术、工具和最佳实践的关注。 。-与他人有效沟通，无论是团队内部还是与客户沟通。
