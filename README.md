@@ -546,3 +546,6 @@ To be successful in programming, it'ss important to understand the basics of com
 
 # 2024-03-13
 - "Keep it simple, stupid!"
+
+# 2024-03-14
+- Today's programming wisdom is to be a lifelong learner. Technology is constantly evolving, and to stay relevant in the industry, you must constantly update your knowledge and skills. This means reading blogs, attending conferences, watching tutorials, learning new programming languages, staying up-to-date with industry trends, practicing regularly, collaborating with others, asking questions, giving feedback, being open-minded, embracing challenges, seeking feedback and continuously improving your work. By doing this, not only will you become a better programmer but you will also be able to adapt to the ever-changing world of technology.
